@@ -1,3 +1,3 @@
 # -Bubble-Sort
 
-![Image](https://drive.google.com/drive/u/0/my-drive)
+![Image](https://drive.google.com/file/d/1QVHZl0Wgo4kk_7P0aLqbTj2ELokEnSDM/view?usp=sharing)
