@@ -1,4 +1,4 @@
-# -Bubble-Sort
+# Bubble-Sort
 A bubble sort algorithm iterates through a list of data, comparing two items that are side by side to determine which is out of order.
 
 ### Understand Using the image below ....
